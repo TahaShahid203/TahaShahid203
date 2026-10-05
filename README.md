@@ -21,13 +21,9 @@ My work includes REST APIs, real-time messaging, AI-assisted workflows, asynchro
 
 ## 📈 Private Work, Public Numbers
 
-![293 non-merge commits](https://img.shields.io/badge/Non--merge_commits-293-38bdf8?style=for-the-badge&logo=git&logoColor=white)
-![290 backend commits](https://img.shields.io/badge/Backend_commits-290-22c55e?style=for-the-badge&logo=python&logoColor=white)
-![3 frontend commits](https://img.shields.io/badge/Frontend_commits-3-a78bfa?style=for-the-badge&logo=react&logoColor=white)
+![Private contribution statistics](assets/private-stats.svg)
 
-A snapshot of my contributions to selected private SaaS repositories, from **November 2025 to October 2026**. Counts are based on Git history attributed to my Git identity, excluding merge commits. Updated **October 5, 2026**.
-
-Work spans backend APIs, real-time messaging, AI integrations, AWS automation, database optimization, and frontend interfaces. Only aggregate counts are shared; repository names, code, and internal details remain private.
+Updated automatically every six hours from selected private repositories. Commits are deduplicated across current remote branches and exclude merges. PR totals count requests I authored; active days cover the last 365 days. Only aggregate counts are published.
 
 ## 💼 Selected Engineering Work
 
@@ -129,4 +125,5 @@ Social networking platform with advanced threading capabilities
 *"Building the future, one line of code at a time"* 💻✨
 
 </div>
+
 
