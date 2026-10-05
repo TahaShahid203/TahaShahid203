@@ -6,11 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a software engineer focused on Python/Django backend development, with experience delivering React and TypeScript features.
+I'm a Django backend engineer with more than a year of professional experience building APIs, real-time systems, and AI-powered products. I studied Computer Science at UET Lahore and also deliver React and TypeScript features.
 
 My work includes REST APIs, real-time messaging, AI-assisted workflows, asynchronous data imports, custom-domain automation, and external service integrations. I've also contributed database optimizations, authentication improvements, automated tests, and CI/CD workflows for private SaaS products.
 
-- 🎓 **Currently studying**: BS Computer Science at University of Engineering And Technology Lahore (2022-2026)
+- 🎓 **Education**: Studied Computer Science at the University of Engineering and Technology Lahore (2022–2026)
+- 💻 **Experience**: More than a year as a Django backend engineer
 - 🔭 **Currently working on**: [MiniMumin - Islamic Learning App](https://mini-mumin.vercel.app/) with AI-powered speech recognition
 - 🌱 **Currently exploring**: Advanced AI/ML models, real-time collaboration systems, and social media APIs
 - 🤖 **AI/ML Focus**: Speech processing, ASR/TTS systems, HuggingFace Transformers, OpenAI API integration
@@ -124,6 +125,7 @@ Social networking platform with advanced threading capabilities
 *"Building the future, one line of code at a time"* 💻✨
 
 </div>
+
 
 
 
