@@ -19,22 +19,21 @@ My work includes REST APIs, real-time messaging, AI-assisted workflows, asynchro
 - 📫 **Reach me**: tahashahid203@gmail.com
 - 📍 **Location**: Lahore, Pakistan
 
-## 📈 Private Work, Public Numbers
-
-![Private contribution statistics](assets/private-stats.svg)
-
-Updated automatically every six hours from selected private repositories. Commits are deduplicated across current remote branches and exclude merges. PR totals count requests I authored; active days cover the last 365 days. Only aggregate counts are published.
-
-## 💼 Selected Engineering Work
+## 💼 Engineering Accomplishments
 
 Contributions to private SaaS products:
 
-- **Backend APIs:** Built and refactored Django REST APIs and optimized database queries and API responses.
-- **Messaging:** Developed real-time chat and threaded email features across backend APIs and React/TypeScript interfaces.
-- **AI-assisted workflows:** Integrated AI capabilities with human handoff controls.
-- **Data imports:** Implemented asynchronous bulk data imports using AWS S3 and Lambda.
-- **Custom domains:** Automated domain onboarding with DNS validation, certificates, and CloudFront.
-- **Delivery and quality:** Improved authentication, contributed automated tests, and developed CI/CD and containerized deployment configuration.
+- **Backend APIs:** Built and refactored Django REST APIs for multi-tenant applications, with validation, pagination, filtering, and controlled public data exposure.
+- **Database performance:** Resolved N+1 queries, consolidated database operations, and reduced API response payloads.
+- **Real-time messaging:** Developed authenticated WebSocket chat, operator permissions, and human handoff controls for AI-assisted conversations.
+- **Threaded email:** Delivered email-provider integrations, attachments, conversation threading, and React/TypeScript inbox interfaces.
+- **AWS automation:** Implemented asynchronous bulk imports with S3 and parallel Lambda processing.
+- **Custom domains:** Automated domain onboarding, DNS verification, certificate provisioning, and CloudFront integration.
+- **External integrations:** Modularized AI and webhook processing, added webhook authentication, and implemented scheduled credential refresh.
+- **Workflow reliability:** Improved message ordering, follow-up coordination, scheduling, reminders, and concurrency handling.
+- **Media processing:** Built concurrent photo ingestion, document verification schemas, media APIs, and scheduled cleanup.
+- **Frontend quality:** Improved message pagination, scrolling, cache invalidation, and regression coverage.
+- **Delivery:** Contributed automated tests, GitHub Actions pipelines, Docker staging configuration, and deployment scripts.
 
 ## 🎯 Featured Projects
 
@@ -125,5 +124,6 @@ Social networking platform with advanced threading capabilities
 *"Building the future, one line of code at a time"* 💻✨
 
 </div>
+
 
 
