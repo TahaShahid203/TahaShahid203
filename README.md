@@ -90,20 +90,6 @@ Social networking platform with advanced threading capabilities
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahashahid203&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahashahid203&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahashahid203&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements & Certifications
 
 - 🎯 **AI Co-Lead** - Google Developer Society, UET Lahore
