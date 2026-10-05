@@ -6,60 +6,49 @@
 
 ## 🚀 About Me
 
-I'm a Django backend engineer with more than a year of professional experience building APIs, real-time systems, and AI-powered products. I studied Computer Science at UET Lahore and also deliver React and TypeScript features.
+I'm a **Django backend engineer with 1+ year of professional experience**, building APIs, real-time systems, and AI-powered products. I studied **Computer Science at UET Lahore** and also work with **React and TypeScript**.
 
-My work includes REST APIs, real-time messaging, AI-assisted workflows, asynchronous data imports, custom-domain automation, and external service integrations. I've also contributed database optimizations, authentication improvements, automated tests, and CI/CD workflows for private SaaS products.
-
-- 🎓 **Education**: Studied Computer Science at the University of Engineering and Technology Lahore (2022–2026)
-- 💻 **Experience**: More than a year as a Django backend engineer
-- 🔭 **Currently working on**: [MiniMumin - Islamic Learning App](https://mini-mumin.vercel.app/) with AI-powered speech recognition
-- 🌱 **Currently exploring**: Advanced AI/ML models, real-time collaboration systems, and social media APIs
-- 🤖 **AI/ML Focus**: Speech processing, ASR/TTS systems, HuggingFace Transformers, OpenAI API integration
-- 👥 **Leadership**: AI Co-Lead at Google Developer Society, UET Lahore
-- 💬 **Ask me about**: Next.js, TypeScript, AI/ML integration, real-time systems, Instagram Graph API
-- 📫 **Reach me**: tahashahid203@gmail.com
-- 📍 **Location**: Lahore, Pakistan
+- **Core stack:** Python · Django · Django REST Framework · React · TypeScript · AWS
+- **Education:** Computer Science, UET Lahore (2022–2026)
+- **Building:** [MiniMumin](https://mini-mumin.vercel.app/) — an Islamic learning app with AI-powered speech recognition
+- **Leadership:** AI Co-Lead, Google Developer Society at UET Lahore
+- **Based in:** Lahore, Pakistan · [Email me](mailto:tahashahid203@gmail.com)
 
 ## 💼 Engineering Accomplishments
 
-Contributions to private SaaS products:
+Selected contributions to private SaaS products:
 
-- **Backend APIs:** Built and refactored Django REST APIs for multi-tenant applications, with validation, pagination, filtering, and controlled public data exposure.
-- **Database performance:** Resolved N+1 queries, consolidated database operations, and reduced API response payloads.
-- **Real-time messaging:** Developed authenticated WebSocket chat, operator permissions, and human handoff controls for AI-assisted conversations.
-- **Threaded email:** Delivered email-provider integrations, attachments, conversation threading, and React/TypeScript inbox interfaces.
-- **AWS automation:** Implemented asynchronous bulk imports with S3 and parallel Lambda processing.
-- **Custom domains:** Automated domain onboarding, DNS verification, certificate provisioning, and CloudFront integration.
-- **External integrations:** Modularized AI and webhook processing, added webhook authentication, and implemented scheduled credential refresh.
-- **Workflow reliability:** Improved message ordering, follow-up coordination, scheduling, reminders, and concurrency handling.
-- **Media processing:** Built concurrent photo ingestion, document verification schemas, media APIs, and scheduled cleanup.
-- **Frontend quality:** Improved message pagination, scrolling, cache invalidation, and regression coverage.
-- **Delivery:** Contributed automated tests, GitHub Actions pipelines, Docker staging configuration, and deployment scripts.
+- **Backend & performance** — Built multi-tenant Django REST APIs; resolved N+1 queries and reduced response payloads.
+- **Real-time chat & email** — Delivered WebSocket chat, threaded email, attachments, and React/TypeScript inbox features.
+- **AI & integrations** — Developed AI-assisted workflows with human handoff, authenticated webhooks, and scheduled credential refresh.
+- **AWS & custom domains** — Built asynchronous imports with S3/Lambda and automated DNS, certificates, and CloudFront integration.
+- **Reliability & media** — Improved scheduling, message ordering, concurrency handling, media ingestion, and cleanup.
+- **Testing & delivery** — Added regression coverage, CI/CD pipelines, Docker staging configuration, and deployment scripts.
 
 ## 🎯 Featured Projects
 
 ### 🕌 [MiniMumin - Islamic Learning Platform](https://mini-mumin.vercel.app/)
-AI-powered educational platform with speech recognition and pronunciation assessment
+AI-powered learning with **speech recognition and pronunciation assessment**
 - **Tech**: Next.js, HuggingFace Transformers, Whisper ASR, Python, TTS APIs
 - **Features**: Multilingual speech processing, real-time feedback, Ayat recitation assessment
 
 ### 📱 [Instagram DM Automation Platform](https://github.com/TahaShahid203/Instagram-DM-Automations)
-SaaS platform for automated Instagram messaging with AI chatbot integration
+SaaS messaging with **AI chatbots and Instagram automation**
 - **Tech**: Next.js, TypeScript, Instagram Graph API, MongoDB, Stripe, OpenAI API
 - **Features**: Keyword-triggered replies, OAuth 2.0, webhook processing, subscription model
 
 ### 💬 [Stack Overflow Clone](https://github.com/TahaShahid203/stackoverflow-clone-with-nextjs)
-Comprehensive Q&A platform with authentication and reputation system
+Q&A platform with **authentication and a reputation system**
 - **Tech**: Next.js, MongoDB, TypeScript, Zod, Tailwind CSS, Clerk
 - **Features**: Code syntax highlighting, secure API, data validation
 
 ### 📝 [Notion Clone - Collaborative Workspace](https://github.com/TahaShahid203/SEProject)
-Real-time collaborative document editor with multi-user functionality
+Document editor with **real-time collaboration**
 - **Tech**: Next.js, Firebase, TypeScript, Liveblocks, Slate.js
 - **Features**: Real-time collaboration, cursor tracking, permission-based access
 
 ### 🧵 [Threads App Clone](https://github.com/TahaShahid203/Threads-App-Clone)
-Social networking platform with advanced threading capabilities
+Social app with **nested conversations and user profiles**
 - **Tech**: Next.js, MongoDB, TypeScript, React Hook Form, Cloudinary
 - **Features**: Infinite nested comments, user profiles, image upload
 
@@ -125,6 +114,7 @@ Social networking platform with advanced threading capabilities
 *"Building the future, one line of code at a time"* 💻✨
 
 </div>
+
 
 
 
