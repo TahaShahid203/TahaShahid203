@@ -1,12 +1,14 @@
 # Hi 👋, I'm Taha Shahid
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Computer+Science+Student;Building+Real-Time+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Python+%26+Django;React+%26+TypeScript;Building+Real-Time+Applications" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at UET Lahore, specializing in **full-stack development** with expertise in **AI/ML integration**, real-time systems, and social media automation. I'm passionate about building innovative solutions that combine modern web technologies with artificial intelligence.
+I'm a software engineer focused on Python/Django backend development, with experience delivering React and TypeScript features.
+
+My work includes REST APIs, real-time messaging, AI-assisted workflows, asynchronous data imports, custom-domain automation, and external service integrations. I've also contributed database optimizations, authentication improvements, automated tests, and CI/CD workflows for private SaaS products.
 
 - 🎓 **Currently studying**: BS Computer Science at University of Engineering And Technology Lahore (2022-2026)
 - 🔭 **Currently working on**: [MiniMumin - Islamic Learning App](https://mini-mumin.vercel.app/) with AI-powered speech recognition
@@ -16,6 +18,17 @@ I'm a **Computer Science student** at UET Lahore, specializing in **full-stack d
 - 💬 **Ask me about**: Next.js, TypeScript, AI/ML integration, real-time systems, Instagram Graph API
 - 📫 **Reach me**: tahashahid203@gmail.com
 - 📍 **Location**: Lahore, Pakistan
+
+## 💼 Selected Engineering Work
+
+Contributions to private SaaS products:
+
+- **Backend APIs:** Built and refactored Django REST APIs and optimized database queries and API responses.
+- **Messaging:** Developed real-time chat and threaded email features across backend APIs and React/TypeScript interfaces.
+- **AI-assisted workflows:** Integrated AI capabilities with human handoff controls.
+- **Data imports:** Implemented asynchronous bulk data imports using AWS S3 and Lambda.
+- **Custom domains:** Automated domain onboarding with DNS validation, certificates, and CloudFront.
+- **Delivery and quality:** Improved authentication, contributed automated tests, and developed CI/CD and containerized deployment configuration.
 
 ## 🎯 Featured Projects
 
@@ -59,6 +72,9 @@ Social networking platform with advanced threading capabilities
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### **Backend Development**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-092E20?style=flat-square)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -117,3 +133,4 @@ Social networking platform with advanced threading capabilities
 *"Building the future, one line of code at a time"* 💻✨
 
 </div>
+
