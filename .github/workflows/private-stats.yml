@@ -1,0 +1,38 @@
+name: Refresh private contribution stats
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: private-profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Calculate aggregate statistics
+        env:
+          PRIVATE_STATS_TOKEN: ${{ secrets.PRIVATE_STATS_TOKEN }}
+          PRIVATE_STATS_REPOSITORIES: ${{ secrets.PRIVATE_STATS_REPOSITORIES }}
+          STATS_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/update_stats.py
+      - name: Publish only the stats card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/private-stats.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Refresh aggregate private contribution statistics"
+          git pull --rebase --quiet origin main
+          git push --quiet origin HEAD:main
